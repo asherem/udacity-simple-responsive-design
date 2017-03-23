@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.light-text {
+    font-weight: 100;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.layout {
+    max-width: 800px;
+}
+
+.hr-style {
+    border-top: 3px solid;
+}
+
+.dark-blue {
+    color: #2d3c49;
+}
+
+.nantucket {
+    color: #7d97ad;
+}
+
+a:link, a:hover, a:visited, a:active {
+    font-size: 10px;
+    text-decoration: none;
+    color: #2d3c49;
+}
